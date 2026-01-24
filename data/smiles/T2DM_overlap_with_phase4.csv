@@ -1,0 +1,43 @@
+DrugID,SMILES,Target,Source,Phase
+DB00284,CC1OC(OC2C(CO)OC(OC(C(=O)C(O)CO)C(O)CO)C(O)C2O)C(O)C(O)C1NC1C=C(CO)C(O)C(O)C1O,alpha-glucosidase,Approved_Drugs_T2DM,4.0
+DB06203,Cn1c(=O)cc(N2CCCC(N)C2)n(Cc2ccccc2C#N)c1=O,DPP-4,Approved_Drugs_T2DM,4.0
+DB01076,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,HMG-CoA reductase,Approved_Drugs_T2DM,4.0
+DB12236,OCC1OC(c2ccc(Cl)c(Cc3ccc(OCCOC4CC4)cc3)c2)C(O)C(O)C1O,SGLT2,Approved_Drugs_T2DM,4.0
+DB01200,CC(C)CC1C(=O)N2CCCC2C2(O)OC(NC(=O)C3=CC4c5cccc6[nH]c(Br)c(c56)CC4N(C)C3)(C(C)C)C(=O)N12,Dopamine D2 receptor,Approved_Drugs_T2DM,4.0
+DB08907,Cc1ccc(C2OC(CO)C(O)C(O)C2O)cc1Cc1ccc(-c2ccc(F)cc2)s1,SGLT2,Approved_Drugs_T2DM,4.0
+DB00672,CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1,ATP-binding cassette sub-family C member 8,Approved_Drugs_T2DM,4.0
+DB00930,C=CCNCCCCCC[N+](C)(C)C,,Approved_Drugs_T2DM,4.0
+DB06292,CCOc1ccc(Cc2cc(C3OC(CO)C(O)C(O)C3O)ccc2Cl)cc1,SGLT2,Approved_Drugs_T2DM,4.0
+DB09038,OCC1OC(c2ccc(Cl)c(Cc3ccc(OC4CCOC4)cc3)c2)C(O)C(O)C1O,SGLT2,Approved_Drugs_T2DM,4.0
+DB11827,CCOc1ccc(Cc2cc(C34OCC(CO)(O3)C(O)C(O)C4O)ccc2Cl)cc1,SGLT2,Approved_Drugs_T2DM,4.0
+DB16165,CCOc1ncc(C)c2c1C(c1ccc(C#N)cc1OC)C(C(N)=O)C(C)=N2,Mineralocorticoid receptor,Approved_Drugs_T2DM,4.0
+DB12412,NC(CC(=O)N1CCc2c(nc(C(F)(F)F)nc2C(F)(F)F)C1)CN1CC(F)(F)CCC1=O,DPP-4,Approved_Drugs_T2DM,4.0
+DB01120,Cc1ccc(S(=O)(=O)NC(=O)NN2CC3CCCC3C2)cc1,ATP-binding cassette sub-family C member 8,Approved_Drugs_T2DM,4.0
+DB00222,CCc1c(C)cn(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCC(C)CC3)cc2)c1O,"ATP-binding cassette sub-family C member 8, ATP-sensitive inward rectifier potassium channel 11, ATP-sensitive inward rectifier potassium channel 1",Approved_Drugs_T2DM,4.0
+DB01067,Cc1cnc(C(=O)NCCc2ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc2)cn1,"ATP-binding cassette sub-family C member 8, Peroxisome proliferator-activated receptor gamma",Approved_Drugs_T2DM,4.0
+DB01251,COc1ccc2c(c1)C(=O)N(CCc1ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc1)C(=O)C2(C)C,"ATP-binding cassette sub-family C member 8, ATP-sensitive inward rectifier potassium channel 8",Approved_Drugs_T2DM,4.0
+DB01016,COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1,"SUR1, ATP-binding cassette sub-family C member 9",Approved_Drugs_T2DM,4.0
+DB08882,CC#CCn1c(N2CCCC(N)C2)nc2c1c(=O)n(Cc1nc(C)c3ccccc3n1)c(=O)n2C,DPP-4,Approved_Drugs_T2DM,4.0
+DB00166,O=C(O)CCCCC1CCSS1,"Lipoyltransferase 1, mitochondrial",Approved_Drugs_T2DM,4.0
+DB00678,CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,AT1-binding,Approved_Drugs_T2DM,4.0
+DB12214,CCOc1ccc(Cc2cc(C3SC(CO)C(O)C(O)C3O)c(OC)cc2C)cc1,SGLT2,Approved_Drugs_T2DM,4.0
+DB00331,CN(C)C(N)=NC(=N)N,"5'-AMP-activated protein kinase subunit beta-1, Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial, Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",Approved_Drugs_T2DM,4.0
+DB00491,OCCN1CC(O)C(O)C(O)C1CO,"Maltase-glucoamylase, intestinal, Lysosomal alpha-glucosidase, Neutral alpha-glucosidase AB, Neutral alpha-glucosidase C",Approved_Drugs_T2DM,4.0
+DB01252,O=C(O)C(CC(=O)N1CC2CCCCC2C1)Cc1ccccc1,"ATP-binding cassette sub-family C member 8, Peroxisome proliferator-activated receptor gamma",Approved_Drugs_T2DM,4.0
+DB00731,CC(C)C1CCC(C(=O)NC(Cc2ccccc2)C(=O)O)CC1,"ATP-binding cassette sub-family C member 8, Peroxisome proliferator-activated receptor gamma",Approved_Drugs_T2DM,4.0
+DB01132,CCc1ccc(CCOc2ccc(Cc3sc(=O)[nH]c3O)cc2)nc1,"Peroxisome proliferator-activated receptor gamma, Amine oxidase [flavin-containing] B",Approved_Drugs_T2DM,4.0
+DB01278,CCC(C)C(NC(=O)C1CCCN1C(=O)CNC(=O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(CO)NC(=O)C(CO)NC(=O)C(Cc1c[nH]cn1)NC(=O)C(NC(=O)C(CC(C)C)NC(=O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)C(C)NC(=O)C(CC(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(CCC(N)=O)NC(=O)C(NC(=O)C(C)NC(=O)C1CSSCC(NC(=O)C(N)CCCCN)C(=O)NC(CC(N)=O)C(=O)NC(C(C)O)C(=O)NC(C)C(=O)NC(C(C)O)C(=O)N1)C(C)O)C(C)C)C(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(C(=O)NC(CC(N)=O)C(=O)NC(C(=O)NCC(=O)NC(CO)C(=O)NC(CC(N)=O)C(=O)NC(C(=O)NC(Cc1ccc(O)cc1)C(N)=O)C(C)O)C(C)C)C(C)O,Calcitonin receptor,Approved_Drugs_T2DM,4.0
+DB00912,CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O,"ATP-binding cassette sub-family C member 8, Peroxisome proliferator-activated receptor gamma",Approved_Drugs_T2DM,4.0
+DB00412,CN(CCOc1ccc(Cc2sc(=O)[nH]c2O)cc1)c1ccccn1,Peroxisome proliferator-activated receptor gamma,Approved_Drugs_T2DM,4.0
+DB06335,N#CC1CC2CC2N1C(=O)C(N)C12CC3CC(CC(O)(C3)C1)C2,DPP-4,Approved_Drugs_T2DM,4.0
+DB13928,CCC(C)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CCC(=O)O)NC(=O)C(CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CCC(NC(=O)CCCCCCCCCCCCCCCCC(=O)O)C(=O)O)NC(=O)C(C)NC(=O)C(C)NC(=O)C(CCC(N)=O)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CO)NC(=O)C(CO)NC(=O)C(NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)C(C)(C)NC(=O)C(N)Cc1c[nH]cn1)C(C)O)C(C)O)C(C)C)C(=O)NC(C)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(C(=O)NC(CCCN=C(N)N)C(=O)NCC(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)O)C(C)C,GLP-1,Approved_Drugs_T2DM,4.0
+DB00641,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,HMG-CoA reductase,Approved_Drugs_T2DM,4.0
+DB01261,NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F,DPP-4,Approved_Drugs_T2DM,4.0
+DB12713,CCOc1ccc(Cc2cc(C3OC(SC)C(O)C(O)C3O)ccc2Cl)cc1,SGLT1,Approved_Drugs_T2DM,4.0
+DB11950,Cc1cc(N2CCN(C3CNC(C(=O)N4CCSC4)C3)CC2)n(-c2ccccc2)n1,,Approved_Drugs_T2DM,4.0
+DB00839,Cc1ccc(S(=O)(=O)NC(=O)NN2CCCCCC2)cc1,,Approved_Drugs_T2DM,4.0
+DB01124,CCCCNC(=O)NS(=O)(=O)c1ccc(C)cc1,,Approved_Drugs_T2DM,4.0
+DB00273,CC1(C)OC2COC3(COS(N)(=O)=O)OC(C)(C)OC3C2O1,,Approved_Drugs_T2DM,4.0
+DB15323,Cn1c(=O)cc(N2CCCC(N)C2)n(Cc2cc(F)ccc2C#N)c1=O,DPP-4,Approved_Drugs_T2DM,4.0
+DB04876,N#CC1CCCN1C(=O)CNC12CC3CC(CC(O)(C3)C1)C2,DPP-4,Approved_Drugs_T2DM,4.0
+DB04878,OCC(CO)NC1CC(O)(CO)C(O)C(O)C1O,,Approved_Drugs_T2DM,4.0
