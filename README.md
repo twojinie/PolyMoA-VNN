@@ -14,7 +14,7 @@ By operating on **functional, mechanism-level representations rather than raw ch
 
 This repository provides a **package-ready snapshot** of the training and evaluation pipeline used in the **Type 2 Diabetes (T2D)** experiments reported in the thesis and manuscript.
 
-# DTI_VNN_release
+# PolyMoA-VNN release package
 
 Package-ready snapshot of the **PolyMoA-VNN / DTI-VNN** training pipeline for **Type 2 Diabetes phenotypic prediction**.
 
@@ -76,7 +76,7 @@ PYTHONPATH=src python scripts/train_vnn.py \
 
 Outputs: `outputs/id_metrics.csv` (seed × fold) and `outputs/ood_metrics.csv` (seed) contain AUROC/AUPR; mean values are printed to console.
 
-GPU vs CPU: torch models (polymoa, fc, rand) are much faster on GPU; full ID+OOD (all models, 5 seeds) typically takes a few hours on a V100-class GPU, but can take many times longer on CPU. XGB/LR run fine on CPU. Device is auto-picked via `torch.cuda.is_available()`.
+GPU vs CPU: torch models (polymoa, fc, rand) are much faster on GPU; full ID+OOD (all models, 5 seeds) typically takes a few hours on a data center GPU (e.g., NVIDIA V100/A100), but can take many times longer on CPU. XGB/LR run fine on CPU. Device is auto-picked via `torch.cuda.is_available()`.
 
 ## Notes and assumptions
 - Models reproduced from the notebook: Polymoa-VNN(base), FC-DNN, RandMasked-VNN (gene-channel inputs), and XGB/LR (SMILES→MorganFP). ChemBERTa and interpretation plots were omitted.
