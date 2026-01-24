@@ -76,6 +76,8 @@ PYTHONPATH=src python scripts/train_vnn.py \
 
 Outputs: `outputs/id_metrics.csv` (seed × fold) and `outputs/ood_metrics.csv` (seed) contain AUROC/AUPR; mean values are printed to console.
 
+GPU vs CPU: torch models (polymoa, fc, rand) are much faster on GPU; full ID+OOD (all models, 5 seeds) typically takes a few hours on a V100-class GPU, but can take many times longer on CPU. XGB/LR run fine on CPU. Device is auto-picked via `torch.cuda.is_available()`.
+
 ## Notes and assumptions
 - Models reproduced from the notebook: Polymoa-VNN(base), FC-DNN, RandMasked-VNN (gene-channel inputs), and XGB/LR (SMILES→MorganFP). ChemBERTa and interpretation plots were omitted.
 - Reactome assets are loaded relative to this repository (no absolute paths).
